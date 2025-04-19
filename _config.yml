@@ -1,10 +1,10 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: Minseok's Hub
+description: "배운거 정리"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
+email: minseok.oh92@gmail.com
 github_username: github
 twitter_username: twitter
 instagram_username: instagram
@@ -12,7 +12,7 @@ linkedin_username: linkedin
 facebook_username: facebook
 
 # External API
-giscus_repo: "byanko55/jekyll-theme-satellite"
+giscus_repo: "DevMinseokOh/DevMinseokOh.github.io"
 giscus_repoId: "R_kgDOJ6fqWg"
 giscus_category: "Q&A"
 giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
@@ -21,6 +21,7 @@ google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
+url: "https://DevMinseokOh.github.io"
 baseurl:
 
 # Build settings
